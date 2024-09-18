@@ -1,0 +1,8 @@
+Authors:
+Mai Tran
+Frida Rojo
+
+Sources consulted:
+Anya Vostinar
+Geeksforgeeks
+StackOverflow
